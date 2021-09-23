@@ -27,8 +27,8 @@
     "url": "https://github.com/grundstein/hosts/issues"
   },
   "devDependencies": {
-    "@magic/format": "0.0.17",
-    "@magic/test": "0.1.56"
+    "@magic/format": "0.0.30",
+    "@magic/test": "0.1.75"
   },
   "keywords": [
     "grundstein",
